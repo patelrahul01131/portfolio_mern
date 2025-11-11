@@ -21,21 +21,6 @@ CSS3 – Styling and animations
 JavaScript (ES6) – Logic and interactivity
 Netlify – Deployment and hosting
 
-📁 Folder Structure
-src/
- ├── components/
- │   ├── Nav.jsx
- │   ├── Hero.jsx
- │   ├── About.jsx
- │   ├── Skills.jsx
- │   ├── Projects.jsx
- │   ├── Contact.jsx
- │   ├── ParticlesBackground.jsx
- │   └── particles.css
- ├── App.jsx
- ├── main.jsx
- ├── index.css
-
 🧩 Sections Overview
 🔹 Hero
 Intro section with name, title, and quick links.
@@ -61,6 +46,6 @@ Font: Clean sans-serif modern typography
 
 📬 Contact
 Rahul Patel
-📧 Email: patelrahul01131@gmail.com
+📧 Email: patelrahul01131@gmail.com     
 💼 LinkedIn: https://www.linkedin.com/in/rahul-patel-90861a279
 🌐 Portfolio: https://ornate-hummingbird-8d2c13.netlify.app/
